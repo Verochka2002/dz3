@@ -59,7 +59,7 @@ onload = () => {
     goodsList.CalcAllProducts();
 }
 
-let BasketEl = document.querySelector('.basket');// пыталась сделать, чтобы при нажатии на кнопку "корзина" появлялась сама корзина
+let BasketEl = document.querySelector('.basket');// при нажатии на кнопку "корзина" появляляется сама корзина
 const openBasketBtn = document.querySelector('.cart-button');
 openBasketBtn.addEventListener('click', function () {
     BasketEl.classList.toggle('hidden');
