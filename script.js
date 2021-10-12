@@ -1,3 +1,4 @@
+//попробовала сделать с промисами, но страница перестала обновляться
 const API = 'https://raw.githubusercontent.com/GeekBrainsTutorial/online-store-api/master/responses';
 const GOODS = '/catalogData.json';
 class GoodsItem {
