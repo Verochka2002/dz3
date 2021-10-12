@@ -1,4 +1,4 @@
-
+//здесь без промисов, попробовала сделать корзину, но тоже ничего не вышло
 const API = 'https://raw.githubusercontent.com/GeekBrainsTutorial/online-store-api/master/responses';
 const GOODS = '/catalogData.json';
 class GoodsItem {
