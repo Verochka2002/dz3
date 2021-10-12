@@ -88,3 +88,6 @@ header{
     box-shadow: 2px 2px grey;
     margin-top: 170px;
 }
+.hidden{
+    display: none;
+}
